@@ -1,1 +1,2 @@
-print(Hello GenAI)
+print("Hello GenAI")
+print("Learning Git")
